@@ -5,14 +5,14 @@
 ## Brief Introduction
 As a forward-thinking AI Prompt Engineer and Network Automation specialist at Kyndryl, I specialize in transforming complex challenges into innovative solutions, particularly in multi-agent systems and network automation. My expertise spans across Python scripting, CrewAI implementations, and large-scale network infrastructure management, combining traditional networking knowledge with cutting-edge AI technologies.
 
-## Skills and Projects
-| Skill | Associated Project |
-|-------|-------------------|
-| Multi-Agent Systems | [CrewAI Network Automation](https://github.com/username/project) - Automated network troubleshooting using AI agents |
-| Network Automation | [Python Network Scripts](https://github.com/username/project) - Infrastructure automation with Python |
-| AI Prompt Engineering | [ChatGPT Integration](https://github.com/username/project) - Advanced prompt engineering for network operations |
-| Cloud Infrastructure | [Kubernetes Deployment](https://github.com/username/project) - Container orchestration for network services |
-| Machine Learning | [Google Vertex AI Solutions](https://github.com/username/project) - ML models for network optimization |
+## Skills
+| Skill | Description |
+|-------|-------------|
+| Multi-Agent Systems | Advanced CrewAI implementations |
+| Network Automation | Infrastructure and process automation |
+| AI Prompt Engineering | LLM optimization and prompt design |
+| Cloud Infrastructure | Container orchestration and AI/ML deployments |
+| Machine Learning | Network optimization using ML models |
 
 ## Tools
 ### Network Automation
@@ -49,3 +49,9 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 <img src="https://img.shields.io/badge/-ChatGPT_for_Everyone-00A0EE?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
+## Projects
+
+- **Network Troubleshooting Agent Suite** - Developed an autonomous multi-agent system using CrewAI for automated network diagnostics and issue resolution. Implemented agents for log analysis, configuration verification, and performance monitoring.
+
+- **AI-Driven Network Documentation** - Created a collaborative agent system with CrewAI to automate network documentation tasks, including topology mapping and configuration documentation. Integrated with existing network monitoring tools for real-time updates.
