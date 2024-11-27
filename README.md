@@ -44,7 +44,8 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 <div>
 <img src="https://img.shields.io/badge/-CCNP_R&S-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CrewAI_Advanced-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-ChatGPT_for_Everyone-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Multi_AI_Agent_Systems-FF6B6B?style=for-the-badge&logo=crewai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Generative_AI_for_Everyone-00A67E?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/-ChatGPT_for_Everyone-00A0EE?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
