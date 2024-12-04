@@ -52,6 +52,4 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 
 ## Projects
 
-- **Network Troubleshooting Agent Suite** - Developed an autonomous multi-agent system using CrewAI for automated network diagnostics and issue resolution. Implemented agents for log analysis, configuration verification, and performance monitoring.
-
-- **AI-Driven Network Documentation** - Created a collaborative agent system with CrewAI to automate network documentation tasks, including topology mapping and configuration documentation. Integrated with existing network monitoring tools for real-time updates.
+- **PydanticAI Stock Price Assistant** - A Python-based financial analysis tool that leverages the Yahoo Finance API (yfinance) to fetch and analyze stock market data. Built with Gradio for an interactive web interface, featuring Plotly-powered visualizations. Utilizes Pydantic for robust data validation and schema enforcement, ensuring data integrity throughout the analysis pipeline.
