@@ -58,4 +58,4 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 
 ## Projects
 
-- **PydanticAI Stock Price Assistant** - A Python-based financial analysis tool that leverages the Yahoo Finance API (yfinance) to fetch and analyze stock market data. Built with Gradio for an interactive web interface, featuring Plotly-powered visualizations. Utilizes Pydantic for robust data validation and schema enforcement, ensuring data integrity throughout the analysis pipeline.
+- **P[PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant)** - A Python-based financial analysis tool that leverages the Yahoo Finance API (yfinance) to fetch and analyze stock market data. Built with Gradio for an interactive web interface, featuring Plotly-powered visualizations. Utilizes Pydantic for robust data validation and schema enforcement, ensuring data integrity throughout the analysis pipeline.
