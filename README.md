@@ -21,6 +21,15 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 | Machine Learning | ML Projects (Coming Soon) |
 
 ## Tools
+### Multi-Agent Systems (MAS)
+<div>
+<img src="https://img.shields.io/badge/-CrewAI-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangChain-32CD32?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Anthropic_API-00A0D1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white" />
+<img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
+
 ### Network Automation
 <div>
 <img src="https://img.shields.io/badge/-DNAC-1679A7?style=for-the-badge&logo=cisco&logoColor=white" />
