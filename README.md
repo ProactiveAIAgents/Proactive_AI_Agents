@@ -9,11 +9,11 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 
 | Skill | Associated Project |
 |-------|-------------------|
-| Data Engineering & Financial Analysis | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
-| API Development with Pydantic | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
-| UI/UX Development with Gradio | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
-| Schema Validation Implementation | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
-| Data Visualization with Plotly | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
+| Data Engineering & Financial Analysis | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
+| API Development with Pydantic | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
+| UI/UX Development with Gradio | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
+| Schema Validation Implementation | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
+| Data Visualization with Plotly | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
 | Multi-Agent Systems | Advanced CrewAI Projects (Coming Soon) |
 | Network Automation | Infrastructure Projects (Coming Soon) |
 | AI Prompt Engineering | LLM Projects (Coming Soon) |
