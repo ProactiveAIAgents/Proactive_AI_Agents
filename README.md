@@ -13,6 +13,11 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 | AI Prompt Engineering | LLM optimization and prompt design |
 | Cloud Infrastructure | Container orchestration and AI/ML deployments |
 | Machine Learning | Network optimization using ML models |
+| Data Engineering | Schema validation and PydanticAI framework implementation |
+| Financial Analysis | Stock market data processing and visualization |
+| API Development | RESTful API integration with yfinance and PydanticAI |
+| UI/UX Development | Interactive web interfaces using Gradio and Plotly |
+| Framework Development | Created PydanticAI framework for type-safe data structures |
 
 ## Tools
 ### Network Automation
