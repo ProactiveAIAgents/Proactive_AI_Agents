@@ -6,18 +6,19 @@
 As a forward-thinking AI Prompt Engineer and Network Automation specialist at Kyndryl, I specialize in transforming complex challenges into innovative solutions, particularly in multi-agent systems and network automation. My expertise spans across Python scripting, CrewAI implementations, and large-scale network infrastructure management, combining traditional networking knowledge with cutting-edge AI technologies.
 
 ## Skills
-| Skill | Description |
-|-------|-------------|
-| Multi-Agent Systems | Advanced CrewAI implementations |
-| Network Automation | Infrastructure and process automation |
-| AI Prompt Engineering | LLM optimization and prompt design |
-| Cloud Infrastructure | Container orchestration and AI/ML deployments |
-| Machine Learning | Network optimization using ML models |
-| Data Engineering | Schema validation and PydanticAI framework implementation |
-| Financial Analysis | Stock market data processing and visualization |
-| API Development | RESTful API integration with yfinance and PydanticAI |
-| UI/UX Development | Interactive web interfaces using Gradio and Plotly |
-| Framework Development | Created PydanticAI framework for type-safe data structures |
+
+| Skill | Associated Project |
+|-------|-------------------|
+| Data Engineering & Financial Analysis | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
+| API Development with Pydantic | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
+| UI/UX Development with Gradio | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
+| Schema Validation Implementation | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
+| Data Visualization with Plotly | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI) |
+| Multi-Agent Systems | Advanced CrewAI Projects (Coming Soon) |
+| Network Automation | Infrastructure Projects (Coming Soon) |
+| AI Prompt Engineering | LLM Projects (Coming Soon) |
+| Cloud Infrastructure | Container Projects (Coming Soon) |
+| Machine Learning | ML Projects (Coming Soon) |
 
 ## Tools
 ### Network Automation
