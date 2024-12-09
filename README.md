@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Idael
 
-[![LinkedIn](https://www.linkedin.com/in/idael-pineiro-ai-multy-agent-systems/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idael-pineiro-ai-multy-agent-systems/)
 
 ## Brief Introduction
 As a forward-thinking AI Prompt Engineer and Network Automation specialist at Kyndryl, I specialize in transforming complex challenges into innovative solutions, particularly in multi-agent systems and network automation. My expertise spans across Python scripting, CrewAI implementations, and large-scale network infrastructure management, combining traditional networking knowledge with cutting-edge AI technologies.
