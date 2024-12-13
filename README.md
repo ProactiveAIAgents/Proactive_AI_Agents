@@ -73,7 +73,6 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 ## Projects
 
 - **[PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant)** - A Python-based financial analysis tool that leverages the Yahoo Finance API (yfinance) to fetch and analyze stock market data. Built with Gradio for an interactive web interface, featuring Plotly-powered visualizations. Utilizes Pydantic for robust data validation and schema enforcement, ensuring data integrity throughout the analysis pipeline.
-- ## Projects
 
 - **[CrewAI Weather Chatbot](https://github.com/ProactiveAIAgents/CrewAI_Weather_Chatbot)** - A sophisticated weather chatbot powered by CrewAI that provides real-time weather updates and forecasts worldwide. Features include current conditions, 3-day forecasts, extreme weather alerts, and automated workflows. Built with Python and integrates Tomorrow.io Weather API with CrewAI for agent-based automation and natural language processing.
 
