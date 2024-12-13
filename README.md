@@ -14,11 +14,11 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 | UI/UX Development with Gradio | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
 | Schema Validation Implementation | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
 | Data Visualization with Plotly | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
-| Multi-Agent Systems | Advanced CrewAI Projects (Coming Soon) |
-| Network Automation | Infrastructure Projects (Coming Soon) |
-| AI Prompt Engineering | LLM Projects (Coming Soon) |
-| Cloud Infrastructure | Container Projects (Coming Soon) |
-| Machine Learning | ML Projects (Coming Soon) |
+| CrewAI Development & Agent Orchestration | [CrewAI Weather Chatbot](https://github.com/ProactiveAIAgents/CrewAI_Weather_Chatbot) |
+| API Integration & Weather Data Processing | [CrewAI Weather Chatbot](https://github.com/ProactiveAIAgents/CrewAI_Weather_Chatbot) |
+| Research Automation & Documentation | [AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI) |
+| Multi-Agent Systems & LLM Integration | [AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI) |
+| Technical Documentation & Version Control | [AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI) |
 
 ## Tools
 ### Multi-Agent Systems (MAS)
@@ -31,7 +31,9 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 <img src="https://img.shields.io/badge/-Xai_(Grok)_API-000000?style=for-the-badge&logo=x&logoColor=white" />
 <img src="https://img.shields.io/badge/-Groq_API-3DDC84?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white" />
 <img src="https://img.shields.io/badge/-PydanticAI-E6484F?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tomorrow.io_API-0088CC?style=for-the-badge&logo=weather&logoColor=white" />
 </div>
+
 
 ### Network Automation
 <div>
@@ -71,3 +73,8 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 ## Projects
 
 - **[PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant)** - A Python-based financial analysis tool that leverages the Yahoo Finance API (yfinance) to fetch and analyze stock market data. Built with Gradio for an interactive web interface, featuring Plotly-powered visualizations. Utilizes Pydantic for robust data validation and schema enforcement, ensuring data integrity throughout the analysis pipeline.
+- ## Projects
+
+- **[CrewAI Weather Chatbot](https://github.com/ProactiveAIAgents/CrewAI_Weather_Chatbot)** - A sophisticated weather chatbot powered by CrewAI that provides real-time weather updates and forecasts worldwide. Features include current conditions, 3-day forecasts, extreme weather alerts, and automated workflows. Built with Python and integrates Tomorrow.io Weather API with CrewAI for agent-based automation and natural language processing.
+
+- **[AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI)** - A comprehensive research automation system that explores and documents the latest developments in AI technology, particularly focusing on LLMs and their applications. Utilizes CrewAI for orchestrating AI agents to gather, analyze, and synthesize cutting-edge AI advancement information, featuring structured documentation and collaborative AI agent interactions.
