@@ -6,7 +6,6 @@
 As a forward-thinking AI Prompt Engineer and Network Automation specialist at Kyndryl, I specialize in transforming complex challenges into innovative solutions, particularly in multi-agent systems and network automation. My expertise spans across Python scripting, CrewAI implementations, and large-scale network infrastructure management, combining traditional networking knowledge with cutting-edge AI technologies.
 
 ## Skills
-
 | Skill | Associated Project |
 |-------|-------------------|
 | Data Engineering & Financial Analysis | [PydanticAI Stock Price Assistant](https://github.com/ProactiveAIAgents/PydanticAI_Stock_Price_Assistant) |
@@ -19,6 +18,9 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 | Research Automation & Documentation | [AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI) |
 | Multi-Agent Systems & LLM Integration | [AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI) |
 | Technical Documentation & Version Control | [AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI) |
+| Conversational AI Flow Management | [LangGraph Chatbot Agent](https://github.com/ProactiveAIAgents/LangGraph_Chatbot_Agent) |
+| Graph-based Dialogue Systems | [LangGraph Chatbot Agent](https://github.com/ProactiveAIAgents/LangGraph_Chatbot_Agent) |
+| Claude AI Model Integration | [LangGraph Chatbot Agent](https://github.com/ProactiveAIAgents/LangGraph_Chatbot_Agent) |
 
 ## Tools
 ### Multi-Agent Systems (MAS)
@@ -77,3 +79,5 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 - **[CrewAI Weather Chatbot](https://github.com/ProactiveAIAgents/CrewAI_Weather_Chatbot)** - A sophisticated weather chatbot powered by CrewAI that provides real-time weather updates and forecasts worldwide. Features include current conditions, 3-day forecasts, extreme weather alerts, and automated workflows. Built with Python and integrates Tomorrow.io Weather API with CrewAI for agent-based automation and natural language processing.
 
 - **[AI Latest Development CrewAI](https://github.com/ProactiveAIAgents/AI_Latest_Development_CrewAI)** - A comprehensive research automation system that explores and documents the latest developments in AI technology, particularly focusing on LLMs and their applications. Utilizes CrewAI for orchestrating AI agents to gather, analyze, and synthesize cutting-edge AI advancement information, featuring structured documentation and collaborative AI agent interactions.
+
+- **[LangGraph Chatbot Agent](https://github.com/ProactiveAIAgents/LangGraph_Chatbot_Agent)** - An advanced conversational AI system built using LangGraph and Anthropic's Claude model. This project demonstrates sophisticated conversation flow management and state handling through graph-based dialogue systems. Features structured conversation flows, complex dialogue state management, and seamless integration with Claude AI for natural language understanding and generation.
