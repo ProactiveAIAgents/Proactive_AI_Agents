@@ -39,6 +39,10 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 <img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub_Packages-CB3837?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub_CodeSpaces-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Workflow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Package_Management-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js_Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 
