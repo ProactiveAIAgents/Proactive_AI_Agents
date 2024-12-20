@@ -34,6 +34,11 @@ As a forward-thinking AI Prompt Engineer and Network Automation specialist at Ky
 <img src="https://img.shields.io/badge/-Groq_API-3DDC84?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white" />
 <img src="https://img.shields.io/badge/-PydanticAI-E6484F?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tomorrow.io_API-0088CC?style=for-the-badge&logo=weather&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Packages-CB3837?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_CodeSpaces-2088FF?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 
